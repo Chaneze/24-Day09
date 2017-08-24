@@ -1,0 +1,2 @@
+#!/bin/sh
+alias rm='echo "dont touch the president"'
